@@ -5,10 +5,9 @@ ____  ___ __   __
 |_|  \___//_/ \_\
 FOX's Part Layers v1.0-final-rc4-dev
 
-Adds the ability to set unlimited Texture, RenderType, and Color layers to a ModelPart
-Injects into Figura's ModelPartAPI, adding layer methods, and replaces primary and secondary setters to use layers 1 and 2
+Increases the ModelPart layer limit from 2 to 32
 
-Github: https://github.com/Bitslayn/FOX-s-Figura-APIs/blob/main/Utilities/PartLayers.lua
+Github: https://github.com/Bitslayn/PartLayers
 ]]
 
 --==============================================================================================================================
